@@ -1,3 +1,5 @@
+<link rel="icon" href="/icon_scene.png" type="image/x-icon" />
+
 ### FNTSTC
 A 3d mobile platformer coming to Android and iOS.<br/>
 
