@@ -1,4 +1,4 @@
-![FNTSTC logo]("fntstc logo no background no character v1.png")
+![FNTSTC logo](fntstc_logo.png)
 
 A 3d mobile platformer coming to Android and iOS.<br/>
 
