@@ -1,4 +1,5 @@
-![FNTSTC logo](fntstc_logo.png)
+### Mackatap
+![FNTSTC logo](FNTSTC_small_nb.png)
 
 A 3d mobile platformer coming to Android and iOS.<br/>
 
