@@ -37,8 +37,7 @@ h3 {
   text-align: center;  
 }
 .tweet-container {
-  margin: 0 auto;
-  max-width: 600px; /* You can adjust this value to control the maximum width of the centered tweet */
+  text-align: center;
 }
 .socials ul {
   padding: 0;
