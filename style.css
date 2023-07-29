@@ -37,6 +37,7 @@ h3 {
   text-align: center;  
 }
 .tweet-container {
+  align-items: center;
   text-align: center;
 }
 .socials ul {
